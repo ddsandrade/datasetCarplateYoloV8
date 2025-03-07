@@ -1,1 +1,1 @@
-Contains a tiny database of carplates with train/test/valid sections for YoloV8.
+Contains a small database of license plates with train/test/validation splits for YOLOv8
